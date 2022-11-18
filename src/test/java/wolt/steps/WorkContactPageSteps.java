@@ -40,6 +40,5 @@ public class WorkContactPageSteps extends BaseSteps {
     @When("I fill out a registration form header")
     public void iFillOutARegistrationFormHeader() {
         workContactPage.fillInDataFieldsWithFaker();
-        workContactPage.fillInDataFieldsWithFaker();
-    }
+     }
 }
