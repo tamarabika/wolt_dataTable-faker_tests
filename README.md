@@ -26,7 +26,7 @@ Project has a test feature Work contact request.
 
 Clone repository and perform the following command:
 
-'mvn test'
+`mvn test`
 
 # Contributors
 
