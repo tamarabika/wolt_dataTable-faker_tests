@@ -1,2 +1,10 @@
 # Project exclude paths
-/target/
+target/
+.project/
+.settings/
+.classpath/
+.idea
+*.iml
+*.log
+/build
+.DS_Store
